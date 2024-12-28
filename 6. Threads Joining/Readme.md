@@ -1,7 +1,3 @@
-Here is the `README.md` file explaining the purpose of `thread.join()` in multithreading with a suitable code example:
-
----
-
 # Understanding `thread.join()` in Java
 
 ## Purpose of `thread.join()`
