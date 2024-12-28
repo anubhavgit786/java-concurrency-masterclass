@@ -1,10 +1,4 @@
-Here's a detailed explanation of the various types of thread pools and a `README.md` file including an explanation of the provided code:
-
----
-
-## README.md
-
-### **Thread Pool Demo in Java**
+# **Thread Pool Demo in Java**
 
 This project demonstrates the use of various thread pools provided by the Java `java.util.concurrent` package. Thread pools manage a pool of worker threads, which execute submitted tasks. This approach optimizes resource utilization by reusing threads and helps manage concurrency efficiently.
 
